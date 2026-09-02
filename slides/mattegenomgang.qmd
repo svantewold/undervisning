@@ -54,7 +54,7 @@ Svante Daneklev Wold
 Utnyttja fler källor till kursmaterialet!
 
 ::: {.incremental}
-- <https://www.core-econ.org/> är en hel bok som ligger gratis på nätet!
+- <https://www.core-econ.org/> har bra alternativa kursböcker som ligger gratis på nätet!
 - [YouTube](https://youtube.com)! Tips på kanaler:
     - Organic Chemistry Tutor (ja, faktiskt!)
     - Khan Academy
