@@ -15,10 +15,10 @@ title-slide-attributes:
 
 ## Formaliteter
 
-- Seminarieserien är inte obligatorisk.
-- Obligatorisk närvaro för de som deltar.
-- Godkänt deltagande ger poäng till tentamen.
-    - 16 poäng, av totalt 100 poäng[^1]
+- Seminarieserien är inte obligatorisk
+- Obligatorisk närvaro för er som deltar
+- Godkänt deltagande ger poäng till tentamen
+    - 16 poäng av 100 poäng totalt[^1]
 
 **Dina studier, ditt ansvar**
 
@@ -26,7 +26,7 @@ title-slide-attributes:
 - Du måste själv uppmärksamma mig på frånvaro och be om att få komplettera.
 
 [^1]: Gränsen för godkänt går vid 45 poäng.
-[^2]: Möjlighet till godkänt deltagande försvinner vid upprepad närvaro.
+[^2]: Möjlighet till godkänt deltagande försvinner vid upprepad frånvaro.
 [^3]: Frånvaro vid eget presentationstillfälle godkänns inte.
 
 ## Innehåll
@@ -36,15 +36,15 @@ Fokus på ekonomisk politik och hur vi kan tillämpa nationalekonomisk teori på
 ::: fragment
 ### Seminarierna (10 teman)
 
-1. *Empiriska studier, experiment*
+1. *Empiriska studier + experiment*
 
-2. *Skola, risk och försäkring*
+2. *Skola + risk och försäkring*
 
-3. *Skatter, socialförsäkringar*
+3. *Skatter + socialförsäkringar*
 
-4. *Externaliteter, kollektiva varor*
+4. *Externaliteter + kollektiva varor*
 
-5. *Rättvisa, diskriminering*
+5. *Rättvisa + diskriminering*
 :::
 
 ## Vad förväntar vi oss av er?
@@ -53,9 +53,15 @@ Fokus på ekonomisk politik och hur vi kan tillämpa nationalekonomisk teori på
 
 Seminarierna genomförs i grupper (10 st). Det ni ska göra är:
 
+::: fragment
 - Presentera en artikel - *redovisa och koppla till teori*
+:::
+::: fragment
 - Opponera på en presentation - *lyft fram andra tolkningar, förtydliga och diskutera*
-- Lämna in uppgift inför varje tillfälle
+:::
+::: fragment
+- Lämna in en uppgift inför varje tillfälle
+:::
 
 Läs alltid de kapitel och artiklar som ingår för att kunna delta i diskussionen.
 
