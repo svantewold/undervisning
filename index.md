@@ -7,6 +7,7 @@ Här lägger jag ut lite material till mina gruppövningar och seminarier, samt 
 ## Slides för genomgångar
 
 - [Introduktion (gruppövning 0)](https://svantewold.github.io/undervisning/slides/mattegenomgang)
+- [Information om seminarieserien](https://svantewold.github.io/undervisning/slides/seminarier)
 
 ## Resurser
 

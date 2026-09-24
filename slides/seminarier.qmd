@@ -1,0 +1,77 @@
+---
+title: "EC1111: Seminarieserien"
+author: "Svante Daneklev Wold"
+format: 
+    revealjs:
+        theme: simple
+        footer: "EC1111 - Seminarier - Svante Daneklev Wold"
+        smaller: true
+        slide-number: true
+title-slide-attributes:
+    data-background-image: assets/imageback.jpg
+    data-background-opacity: "0.3"
+---
+
+
+## Formaliteter
+
+- Seminarieserien är inte obligatorisk.
+- Obligatorisk närvaro för de som deltar.
+- Godkänt deltagande ger poäng till tentamen.
+    - 16 poäng, av totalt 100 poäng[^1]
+
+**Dina studier, ditt ansvar**
+
+- Frånvaro kan godkännas vid max ett tillfälle[^2][^3].
+- Du måste själv uppmärksamma mig på frånvaro och be om att få komplettera.
+
+[^1]: Gränsen för godkänt går vid 45 poäng.
+[^2]: Möjlighet till godkänt deltagande försvinner vid upprepad närvaro.
+[^3]: Frånvaro vid eget presentationstillfälle godkänns inte.
+
+## Innehåll
+
+Fokus på ekonomisk politik och hur vi kan tillämpa nationalekonomisk teori på olika områden. Ett bra tillfälle att införskaffa och fördjupa era kunskaper!
+
+::: fragment
+### Seminarierna (10 teman)
+
+1. *Empiriska studier, experiment*
+
+2. *Skola, risk och försäkring*
+
+3. *Skatter, socialförsäkringar*
+
+4. *Externaliteter, kollektiva varor*
+
+5. *Rättvisa, diskriminering*
+:::
+
+## Vad förväntar vi oss av er?
+
+**Aktivt deltagande!**
+
+Seminarierna genomförs i grupper (10 st). Det ni ska göra är:
+
+- Presentera en artikel - *redovisa och koppla till teori*
+- Opponera på en presentation - *lyft fram andra tolkningar, förtydliga och diskutera*
+- Lämna in uppgift inför varje tillfälle
+
+Läs alltid de kapitel och artiklar som ingår för att kunna delta i diskussionen.
+
+## Några tankar och tips
+
+- Gör mig glad och använd inte AI...
+- Presentationsverktyg behövs inte, men kan vara ett stöd
+- Presentationerna ska bottna i teori. Det gäller också diskussionerna.
+- Läs instruktioner noga...
+
+## Att göra nu
+
+Läs igenom seminariehäftet ordentligt. Det är ert eget ansvar att vara medvetna om vad som gäller.
+
+- Välj inlämningsgrupp på Canvas med det ämne ni valt **senast 29 september.**
+- Börja se på inlämningsuppgifterna. Första deadline **6 oktober klockan 12**.
+- Avregistrera er från seminariegruppen på Canvas om ni inte tänker följa seminarieserien.
+
+## Frågor på det? {.title-slide}
